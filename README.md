@@ -1,3 +1,9 @@
-# F1-Pilotlar-
-# f1_pilotlar
-# f1_pilotlar
+# F1-Pilotlar- ios uygulaması
+
+kullandığım kütüphaneler:
+>Alamofire 
+>Kingfisher
+
+kullandığım yapılar:
+xib
+Table view cell
